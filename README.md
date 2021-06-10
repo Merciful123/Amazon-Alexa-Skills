@@ -23,7 +23,7 @@ def divide(*x):
     return result
 
 
-import calc
+import calc   ## calc should be created already to run this codes.
 
 
 print(calc.add(10,20,30,40,50))
